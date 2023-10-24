@@ -13,7 +13,7 @@ You can put the Hashtopolis hostname, port, and API key in ```/root/.hashie/conf
 ```json
 {
     "hashtopolis":"hashtopolisurl.com",
-    "port":hashtopolisport,
+    "port":"hashtopolisport",
     "apiKey":"hashtopolisapikey"
 }
 ```
